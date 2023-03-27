@@ -1,0 +1,22 @@
+input{
+    background-color: #eeeeee;
+    color: #7b7b7b;
+    margin-bottom: 20px;
+    padding: 10px ;
+    padding-right: 100px;
+    margin-left:20px;
+    border: none;
+ }
+ .input-field-style
+ {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+ }
+ input:valid{
+   border: 2px solid black;
+ }
+ input:invalid{
+   border :2px solid red;
+ }

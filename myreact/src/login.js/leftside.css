@@ -1,0 +1,25 @@
+.left-side{
+    background-color: hwb(0 100% 0%);
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding:40px;
+    width:50%;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+
+.left-side-content h2 {
+    font-size: 2.5em;
+    padding: 0 100px;
+    padding-bottom: 20px;
+
+}
+.left-side-content p{
+     padding: 0 100px;
+     padding-bottom: 10px;
+}
+
+
+

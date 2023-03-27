@@ -1,0 +1,44 @@
+
+.container2 
+ {
+   padding-top: 30px;
+   padding-bottom: 70px;
+   background-color: rgb(219, 219, 219);
+ 
+ }
+ .head1
+ {
+    color: black; 
+    font-style: normal;
+    text-align: center;
+ }
+ 
+ .head2
+ {
+     color: rgb(148, 148, 148);
+     text-align: center;
+     padding-bottom: 20px;
+    }
+ 
+ 
+ .card-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap:5px;
+    background-color: rgb(219, 219, 219);
+ }
+ .card h3 {
+    text-align: center;
+    
+ }
+ .card p{
+    text-align: center;
+    color: rgb(194, 193, 193);
+    border: 2px white;
+    padding-bottom: 5px;
+ }
+ .card {
+    background-color: white;
+ }
+

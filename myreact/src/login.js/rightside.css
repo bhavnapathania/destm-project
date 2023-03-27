@@ -1,0 +1,30 @@
+.right-side{
+   background-color:#ff0062;
+   padding: 40px;
+   width:50%;
+   border-top-right-radius: 10px;
+   border-bottom-right-radius: 10px;
+   display: flex;
+   flex-wrap: wrap;
+   flex-direction: column;
+   justify-content: center;
+ 
+ 
+}
+.right-side-content{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+
+}
+.right-side-content h1 {
+    color: white;
+   padding-left: 70px;
+     
+
+}
+.right-side-content p {
+    color: white;
+   padding-left: 25px;
+}
+

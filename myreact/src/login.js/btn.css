@@ -1,0 +1,18 @@
+.btn-left button {
+    color: rgb(255, 255, 255);
+    background-color: rgb(230, 17, 81);
+    padding: 10px 30px;
+    border-radius: 20px;
+    margin-left: 100px;
+    width: 150px;
+}
+.btn-left-color{
+   color: #ff001f;
+   border: none;
+}
+.btn-right-color{
+    color: #ff0056;
+    border-color: white;
+    
+}
+
